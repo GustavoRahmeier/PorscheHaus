@@ -1,0 +1,14 @@
+Coloque aqui as fotografias da Porsche Haus com estes nomes (ou ajuste os caminhos no index.html):
+
+porsche-fachada.jpg        (hero + compartilhamento Open Graph)
+porsche-historia-01.jpg    (Nossa História, foto principal)
+porsche-historia-02.jpg    (Nossa História, detalhe)
+porsche-espaco-01.jpg      (O Espaço, foto grande)
+porsche-espaco-02.jpg      (O Espaço, interior)
+porsche-espaco-03.jpg      (O Espaço, detalhes da construção)
+porsche-casamentos.jpg
+porsche-aniversarios.jpg
+porsche-eventos.jpg
+porsche-tematicas.jpg
+porsche-experiencia.jpg    (fundo da seção Experiências)
+porsche-galeria-01.jpg ... porsche-galeria-08.jpg
